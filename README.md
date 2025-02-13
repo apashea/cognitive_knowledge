@@ -1,3 +1,7 @@
+This project is based on [cognitive](https://github.com/docxology/cognitive) by Daniel Ari Friedman (docxology).
+Original work © docxology under MIT License.
+
+
 # Cognitive Ecosystem Modeling Framework
 
 A comprehensive framework for modeling cognitive ecosystems using [[active_inference|Active Inference]], integrated with [[obsidian_linking|Obsidian]] for knowledge management.

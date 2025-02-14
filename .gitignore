@@ -52,7 +52,7 @@ coverage.xml
 
 # Jupyter Notebooks
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb
 
 # Documentation
 docs/_build/

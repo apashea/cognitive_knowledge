@@ -1,5 +1,5 @@
-This project is based on [cognitive](https://github.com/docxology/cognitive) by Daniel Ari Friedman (docxology).
-Original work © docxology under MIT License.
+# This project is based on [cognitive](https://github.com/docxology/cognitive) by Daniel Ari Friedman (docxology).
+# Original work © docxology under MIT License.
 
 
 # Cognitive Ecosystem Modeling Framework
